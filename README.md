@@ -4,7 +4,7 @@
 💻 Learning Programming & GitHub  
 🎮 Minecraft , freefire & Tech Lover  
 
-### 🔧 Skills
+### 🔧 Skills in process 
 - C Programming
 - HTML , CSS & Java
 - Git & GitHub
